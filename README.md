@@ -14,4 +14,5 @@
 
 ## 📸 效果截图
 
-<img width="1220" height="2581" alt="Screenshot_2026-05-22-19-56-49-370_bin mt plus canary-edit" src="https://github.com/user-attachments/assets/92e4b2c2-6e8d-450b-be6e-f0934b872f18" />
+
+<img width="1220" height="2580" alt="Screenshot_2026-05-22-20-13-51-519_bin mt plus canary-edit" src="https://github.com/user-attachments/assets/b25a968b-b00b-4674-9cea-74ae39127951" />
