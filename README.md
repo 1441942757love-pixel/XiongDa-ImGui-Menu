@@ -13,4 +13,5 @@
 3. 编译生成的 `.sh` 文件可直接注入或集成至熊大快跑应用中。
 
 ## 📸 效果截图
-*(可以后续在这里补充一张你的菜单在手机上运行的实机截图)*
+
+<img width="1220" height="2581" alt="Screenshot_2026-05-22-19-56-49-370_bin mt plus canary-edit" src="https://github.com/user-attachments/assets/92e4b2c2-6e8d-450b-be6e-f0934b872f18" />
